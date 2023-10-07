@@ -5,17 +5,17 @@ Welcome to the Stone, Paper, Scissor game! This is a command-line game where you
 
 ① When you start the game, you have two options:
 
-• Play Again (Option 1): You can choose to play another round of the game.
+➼ Play Again (Option 1): You can choose to play another round of the game.
 
-• Exit the Game (Option 2): You can exit the game.
+➼ Exit the Game (Option 2): You can exit the game.
 
 ② If you choose to play again, you'll be prompted to select a game level:
 
-• Easy (Level 1): You have 15 chances to play, and the total score is 150 points.
+➼ Easy (Level 1): You have 15 chances to play, and the total score is 150 points.
 
-• Medium (Level 2): You have 10 chances to play, and the total score is 100 points.
+➼ Medium (Level 2): You have 10 chances to play, and the total score is 100 points.
 
-• Hard (Level 3): You have 5 chances to play, and the total score is 50 points.
+➼ Hard (Level 3): You have 5 chances to play, and the total score is 50 points.
 
 ③ Once you select the game level, you'll be prompted to choose between stone, paper, and scissor for each round.
 
@@ -23,11 +23,11 @@ Welcome to the Stone, Paper, Scissor game! This is a command-line game where you
 
 ⑤ The game will determine the winner based on the following rules:
 
-• Stone beats Scissor
+➼ Stone beats Scissor
 
-• Scissor beats Paper
+➼ Scissor beats Paper
 
-• Paper beats Stone
+➼ Paper beats Stone
 
 ⑥ Scores will be updated based on the results, and the game will continue until you've used all your chances.
 

@@ -37,7 +37,7 @@ Welcome to the Stone, Paper, Scissor game! This is a command-line game where you
 Here's an example of how you can use and play the game:
 
 ① Choose to play again (Option 1)
-.
+
 ② Select your desired game level (Easy, Medium, or Hard).
 
 ③ Start playing by choosing stone, paper, or scissor in each round.
